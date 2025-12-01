@@ -1,4 +1,4 @@
-import type { Service, Category } from '../type';
+import type { Service, Category } from '../types';
 
 export const CATEGORIES: Category[] = [
   'House Section', 'Carpentry', 'Electrical Works', 'Plumbing', 
